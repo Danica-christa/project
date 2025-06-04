@@ -47,7 +47,7 @@ Display the result.
 
 ## PROGRAM:
 ### Name: DANICA CHRISTA
-### Reg.No: 212222240022
+### Reg.No: 212223240022
 ### I)Perform ROI from an image
 ```python
 import cv2
